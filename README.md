@@ -42,8 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-<img width="1415" height="1112" alt="Tri-Armed Bracket CAD Drawing" src="https://github.com/user-attachments/assets/eee993a5-6a9b-41e3-b770-1b53f5ccf501" />
-
+<img width="1028" height="725" alt="Screenshot 2026-11-09 141908" src="https://github.com/user-attachments/assets/683a51e3-ac55-4ffc-ad60-966e22da84c6" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
